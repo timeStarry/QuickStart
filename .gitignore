@@ -1,2 +1,5 @@
-/.idea
+.idea/
 sql_app.db
+.env
+frontend/.vscode/
+
